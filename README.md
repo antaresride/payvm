@@ -11,7 +11,7 @@
 </div>
 
 ## Description
-**PayVM** - a VM optmized for be a sandbox for smart contracts executions's payment.<br><br>
+**PayVM** - a VM optmized for smart contracts executions's payment.<br><br>
 See official documentation here:
 ##  Features
 *  **Auditable**: The language assembly and DSL are easy to read and write.
