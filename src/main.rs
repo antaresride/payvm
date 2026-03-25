@@ -1,4 +1,4 @@
-use genpayvm::run; 
+use genpayvm::{VM, Instruction}; 
 
 fn main() {
     let program = vec![
