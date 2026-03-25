@@ -1,10 +1,10 @@
-enum Instruction {
+pub enum Instruction{
     Load(usize, i32),
     Add(usize, usize),
     Print(usize),
     Halt,
 }
-struct VM {
+pub struct VM {
     registers: [i32; 4],
     pc: usize,
     program: Vec<Instruction>,
